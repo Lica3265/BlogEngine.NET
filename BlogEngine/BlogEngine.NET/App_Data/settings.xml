@@ -9,8 +9,8 @@
   <trackingscript />
   <showdescriptioninpostlist>False</showdescriptioninpostlist>
   <commentsperpage>10</commentsperpage>
-  <feedauthor />
-  <description>Short description of the blog</description>
+  <feedauthor>jakianyoky@gmail.com</feedauthor>
+  <description />
   <enablepingbacksend>True</enablepingbacksend>
   <postoptionscustomfields>False</postoptionscustomfields>
   <enabletagexport>True</enabletagexport>
@@ -71,13 +71,13 @@
   <smtpserverport>587</smtpserverport>
   <smtppassword>password</smtppassword>
   <iscommentnestingenabled>True</iscommentnestingenabled>
-  <timestamppostlinks>False</timestamppostlinks>
+  <timestamppostlinks>True</timestamppostlinks>
   <avatar>none</avatar>
   <timezoneid>UTC</timezoneid>
   <moderationtype>Auto</moderationtype>
   <enablerecaptchaoncontactform>False</enablerecaptchaoncontactform>
   <enableoptimization>False</enableoptimization>
-  <name>Name of the blog</name>
+  <name>李峻安</name>
   <pageoptionscustomfields>True</pageoptionscustomfields>
   <enablepingbackreceive>True</enablepingbackreceive>
   <showlivepreview>False</showlivepreview>
@@ -85,7 +85,7 @@
   <searchcommentlabeltext>Include comments in search</searchcommentlabeltext>
   <enablerelatedposts>True</enablerelatedposts>
   <enableenclosures>False</enableenclosures>
-  <authorname>My name</authorname>
+  <authorname>李峻安</authorname>
   <descriptioncharacters>300</descriptioncharacters>
   <enablessl>False</enablessl>
   <errortext>This one's down to me! Please accept my apologies for this - I'll see to it that the developer responsible for this happening is given 20 lashes (but only after he or she has fixed this problem).</errortext>

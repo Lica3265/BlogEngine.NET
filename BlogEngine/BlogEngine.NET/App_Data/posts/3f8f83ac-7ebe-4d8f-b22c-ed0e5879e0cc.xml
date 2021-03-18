@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>測試</title>
+  <description>123</description>
+  <content>&lt;p&gt;123&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2021-03-18 18:34:00</pubDate>
+  <lastModified>2021-03-18 10:34:58</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>測試</slug>
+  <tags />
+  <comments />
+  <categories />
+  <notifications />
+</post>
